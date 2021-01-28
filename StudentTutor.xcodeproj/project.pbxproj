@@ -30,6 +30,9 @@
 		9DB4997525C2A3BD00FE084C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DB4997825C2A3BD00FE084C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9DB4997A25C2A3BD00FE084C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DB84A9E25C378CC001ACDA7 /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png"; sourceTree = "<group>"; };
+		9DB84A9F25C378CC001ACDA7 /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png"; sourceTree = "<group>"; };
+		9DB84AA025C378CC001ACDA7 /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,7 @@
 		9DB4996025C2A3BB00FE084C = {
 			isa = PBXGroup;
 			children = (
+				9DB84A9D25C378CC001ACDA7 /* Screenshots */,
 				9DB4996B25C2A3BB00FE084C /* StudentTutor */,
 				9DB4996A25C2A3BB00FE084C /* Products */,
 			);
@@ -83,6 +87,16 @@
 				9DB4997A25C2A3BD00FE084C /* Info.plist */,
 			);
 			path = StudentTutor;
+			sourceTree = "<group>";
+		};
+		9DB84A9D25C378CC001ACDA7 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				9DB84A9E25C378CC001ACDA7 /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png */,
+				9DB84AA025C378CC001ACDA7 /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png */,
+				9DB84A9F25C378CC001ACDA7 /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
