@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9DB340D025C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DB340CD25C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png */; };
+		9DB340D125C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DB340CE25C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png */; };
+		9DB340D225C3779300B0D72C /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DB340CF25C3779300B0D72C /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png */; };
 		9DB4996D25C2A3BB00FE084C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB4996C25C2A3BB00FE084C /* AppDelegate.swift */; };
 		9DB4996F25C2A3BB00FE084C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB4996E25C2A3BB00FE084C /* SceneDelegate.swift */; };
 		9DB4997125C2A3BB00FE084C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB4997025C2A3BB00FE084C /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9DB340CD25C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png"; sourceTree = "<group>"; };
+		9DB340CE25C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png"; sourceTree = "<group>"; };
+		9DB340CF25C3779300B0D72C /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png"; sourceTree = "<group>"; };
 		9DB4996925C2A3BB00FE084C /* StudentTutor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentTutor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DB4996C25C2A3BB00FE084C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DB4996E25C2A3BB00FE084C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +43,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9DB340CC25C3779300B0D72C /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				9DB340CD25C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png */,
+				9DB340CE25C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png */,
+				9DB340CF25C3779300B0D72C /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png */,
+			);
+			name = Screenshots;
+			path = ../../../../Desktop/Screenshots;
+			sourceTree = "<group>";
+		};
 		9DB4996025C2A3BB00FE084C = {
 			isa = PBXGroup;
 			children = (
@@ -59,6 +76,7 @@
 				9DB4996C25C2A3BB00FE084C /* AppDelegate.swift */,
 				9DB4996E25C2A3BB00FE084C /* SceneDelegate.swift */,
 				9DB4997025C2A3BB00FE084C /* ViewController.swift */,
+				9DB340CC25C3779300B0D72C /* Screenshots */,
 				9DB4997225C2A3BB00FE084C /* Main.storyboard */,
 				9DB4997525C2A3BD00FE084C /* Assets.xcassets */,
 				9DB4997725C2A3BD00FE084C /* LaunchScreen.storyboard */,
@@ -124,8 +142,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DB340D025C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.24.png in Resources */,
 				9DB4997925C2A3BD00FE084C /* LaunchScreen.storyboard in Resources */,
 				9DB4997625C2A3BD00FE084C /* Assets.xcassets in Resources */,
+				9DB340D225C3779300B0D72C /* Simulator Screen Shot - iPad Pro (9.7-inch) - 2021-01-28 at 23.10.55.png in Resources */,
+				9DB340D125C3779300B0D72C /* Simulator Screen Shot - iPhone 11 - 2021-01-28 at 23.08.17.png in Resources */,
 				9DB4997425C2A3BB00FE084C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
