@@ -17,9 +17,12 @@ This is simple iOS app I've created as part of the course from AppCoda
 * iOS 14.2
 
 ## Screenshots
-<img src="https://github.com/gdlkk/student-tutor/blob/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-28%20at%2023.08.17.png?raw=true" width="30%" height="30%"> 
-<img src="https://github.com/gdlkk/student-tutor/blob/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-28%20at%2023.08.24.png?raw=true" width="50%" height="50%">
-<img src="https://github.com/gdlkk/student-tutor/blob/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(9.7-inch)%20-%202021-01-28%20at%2023.10.55.png?raw=true" width="50%" height="50%">
+
+<img src="https://user-images.githubusercontent.com/46094848/119569143-a1b6c100-bdae-11eb-8b86-cc592fd91960.png" width="20%" height="20%"> 
+<img src="https://user-images.githubusercontent.com/46094848/119569206-b72beb00-bdae-11eb-8d8a-136448a5969c.png" width="30%" height="30%">
+
+
+
 
 ## Status
 Project is: finished
